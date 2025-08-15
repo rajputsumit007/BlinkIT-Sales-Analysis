@@ -6,7 +6,7 @@ I'm super excited to share my latest work where I analyzed Blinkit’s sales dat
 💰 Total Sales: $1.20 Million
 📦 Number of Items: 8,523
 ⭐ Average Rating: 3.9
-🛍️ Average Sales per Product: $141
+🛍️ Average Sales per Product: $141 
 📈 Outlet Establishment Trend (2010–2022): Peak growth in 2018 at $205K
 
 🧠 Skills Applied:
